@@ -86,6 +86,11 @@ Durante o desenvolvimento, foram realizados testes para:
    ```
 6. Abra um **Pull Request** no GitHub.
 
+```plaintext
+Link do projeto {
+https://www.figma.com/design/74AjDeNJ7MtwdNDuqlSUzp/Apple-Website-UI-2023-(apple.com)-(Community)?node-id=1-611&node-type=frame&t=atALc12vbdsY1joC-0
+}
+```
 ---
 
 ## **📄 Licença**
