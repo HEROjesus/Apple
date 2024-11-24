@@ -1,5 +1,3 @@
-Aqui está um modelo de README para o seu projeto baseado no texto fornecido:
-
 ---
 
 # **Projeto de Prática de HTML e CSS**
