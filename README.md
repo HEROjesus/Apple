@@ -45,7 +45,12 @@ O design foi planejado com foco em:
 ├── index.html
 └── README.md
 ```
+## **🎨 Design do Projeto**
 
+O design do projeto foi baseado no layout disponível no Figma, inspirado no site da Apple em 2023. Acesse o protótipo clicando no link abaixo:  
+👉 **[Design do Projeto no Figma](https://www.figma.com/design/74AjDeNJ7MtwdNDuqlSUzp/Apple-Website-UI-2023-(apple.com)-(Community)?node-id=1-611&node-type=frame&t=atALc12vbdsY1joC-0)**
+
+---
 ---
 
 ## **📱 Responsividade**
@@ -86,9 +91,7 @@ Durante o desenvolvimento, foram realizados testes para:
    ```
 6. Abra um **Pull Request** no GitHub.
 
-```plaintext
-https://www.figma.com/design/74AjDeNJ7MtwdNDuqlSUzp/Apple-Website-UI-2023-(apple.com)-(Community)?node-id=1-611&node-type=frame&t=atALc12vbdsY1joC-0
-```
+
 ---
 
 ## **📄 Licença**
